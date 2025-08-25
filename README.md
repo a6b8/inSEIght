@@ -39,7 +39,7 @@ This hackathon project is built using:
 
 ## 🌐 Live Demo
 
-Visit our project website: [inSEIght Bot Demo](https://yourusername.github.io/hackathon-project/)
+Visit our project website: [inSEIght Bot Demo](https://a6b8.github.io/inSEIght/)
 
 ## 🛠️ Technical Implementation
 
@@ -83,7 +83,7 @@ The website includes an interactive demo showing the bot in action with sample p
 ## 🔗 Links
 
 - **Bot**: [@inSEIghtBot](https://t.me/inSEIghtBot)
-- **Website**: https://yourusername.github.io/hackathon-project/
+- **Website**: https://a6b8.github.io/inSEIght/
 - **FlowMCP**: https://www.flowmcp.org
 - **MCP Server**: https://community.flowmcp.org/inseight
 - **SEI Network**: https://sei.network
